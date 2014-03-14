@@ -4,7 +4,7 @@ The Firebase crew just upgraded offices and we're overloading the office warming
 
 ## Logistics and RSVP 
 
-Please see logistics and details for the office warming here: http://www.meetup.com/firebase/events/171326742/
+Please see logistics and details for the office warming on [Meetup](http://www.meetup.com/firebase/events/171326742/) or [ Facebook](https://www.facebook.com/events/1451504431748932).
 
 ## Key Signing Details
 
