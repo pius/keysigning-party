@@ -19,7 +19,7 @@ We'll be holding a ["List Based" key party](http://cryptnet.net/fdp/crypto/keysi
 
 ### Before the party
 
-0. Send a pull request to this repo and add your ascii armored public key to pubkeys/ 
+0. Send a pull request to this repo and add your ascii armored public key to pubkeys/ OR email your public key to vikrum@firebase.com
 0. (Optional, but strongly recommended) The day before the event: make a printout of the keyring (available in this repo the day before the event) that has the list of keys, key owner details (name, email), and the key fingerprints.
 
 
